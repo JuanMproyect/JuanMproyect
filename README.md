@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 # 💫 About Me:
 Hello! I'm a 19-year-old programmer from Honduras, currently in my second year of Computer Engineering. I am passionate about learning and exploring the vast world of technology, with a special focus on back-end web development, artificial intelligence, cloud computing, and emerging technologies.
 My greatest strength is my ability to quickly adapt to new technologies and my relentless desire to grow both personally and professionally. I have worked on various personal and academic projects, gaining practical experience and developing valuable skills. I am eager to collaborate on innovative projects and bring a fresh, dynamic perspective to the teams I join.
